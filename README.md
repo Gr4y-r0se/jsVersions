@@ -29,7 +29,7 @@ Here is a list of all the webconsole commands I (and my many venerable colleague
  - React: `React.version`
  - RequireJS: `require.version`
  - Toastr: `toastr.version`
- - Wordpress: `window._wpemojiSettings.source.concatemoji`
+ - Wordpress Emoji: `window._wpemojiSettings.source.concatemoji`
  - YUI: `Y.VERSION`
 
 __________________________
