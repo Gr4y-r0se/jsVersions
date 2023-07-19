@@ -18,7 +18,7 @@ Here is a list of all the webconsole commands I (and my many venerable colleague
  - FancyBox: `jQuery.fancybox.version`
  - Highcharts: `Highcharts.version`  
  - jQuery: `jQuery().jquery` 
- - jQueryUI : `$.ui.version` / `jQuery.ui.version` 
+ - jQueryUI : `jQuery.ui.version` / `$.ui.version`
  - Knockout.js: `ko.version`
  - Lodash: `_.VERSION`
  - Microsoft Clarity: `clarity.v`
