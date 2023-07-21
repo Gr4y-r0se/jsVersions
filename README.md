@@ -28,6 +28,7 @@ Here is a list of all the webconsole commands I (and my many venerable colleague
  - Prototype: `prototype.version`
  - React: `React.version`
  - RequireJS: `require.version`
+ - TinyMCE: `tinymce.majorVersion + "." + tinymce.minorVersion`
  - Toastr: `toastr.version`
  - Wordpress Emoji: `window._wpemojiSettings.source.concatemoji`
  - YUI: `Y.VERSION`
