@@ -6,7 +6,7 @@ Here is a list of all the webconsole commands I (and my many venerable colleague
  - Angular: `getAllAngularRootElements()[0].attributes["ng-version"];`
  - AngularJS: `angular.version.full`  
  - Bootstrap: `bootstrap.Alert.VERSION` / `$.fn.tooltip.Constructor.VERSION`
- - Core: `core.version` / `window['__core-js_shared__'].versions`
+ - Core: `core.version` / `window['__core-js_shared__'].versions[0].version`
  - D3: `d3.version`
  - Data Tables: `$.fn.dataTable.version` / `$().dataTable.version`
  - Dojo: `dojo.version`
