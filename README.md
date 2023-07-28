@@ -34,6 +34,10 @@ Here is a list of all the webconsole commands I (and my many venerable colleague
  - YUI: `Y.VERSION`
 
 __________________________
+#### Scanning
+If you want to scan many sites for package versions using the above, then please see [jsInspector](https://github.com/BDragisic/jsInspector), a tool written in collaboration with [@BDragisic](https://github.com/BDragisic).
+__________________________
+#### Additions
 If you have any additions, please open a pull request. You can use the below as a style guide:
 
 ```md
